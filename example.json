@@ -1,0 +1,58 @@
+{
+  "id": "acme",
+  "name": "Acme",
+  "description": "CRM & Customer platform for SMBs",
+  "categories": [
+    "CRM", 
+    "Customer Support"
+  ],
+  "iconUrl": "https://pbs.twimg.com/profile_images/922908923207839744/5EZID3tH_400x400.jpg",
+  "website": "https://www.acmesaas.com",
+  "applicationUrl": "https://app.acmesaas.com",  
+  "twitter": "acmesaas",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.acmesaas.com/privacy",
+  "dsarUrl": "https://acme.gdprform.io",
+  "dpaUrl": "https://www.acmesaas.com/dpa",
+  "subprocessorsUrl": "https://www.acmesaas.com/subprocessors",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingProviders": [
+    "AWS", 
+    "Digital Ocean"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "John Doe",
+      "email": "john@dpo.com",
+      "region": "EU"
+    }, 
+    {
+      "type": "DPO",
+      "name": "Tim Doe",
+      "email": "tim@dpo.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [
+    "ISO 27001", 
+    "HIPAA"
+  ],
+  "dataBreaches": [{
+    "date": "10/12/2017",
+    "url": "https://www.acmesaas.com/breach"
+  }],
+  "articles": [{
+    "date": "02/12/2018",
+    "url": "https://www.acmesaas.com/gdpr"
+  }],
+  "statusUrl": "https://www.acmesaas.com/status",
+  "statusTwitter": "statusacmesaas",
+  "integrationsUrl": "https://www.acmesaas.com/integrations",
+  "gdprUrl": "https://www.acmesaas.com/gdpr",
+  "verified": true,
+  "businessModel": ["B2C"]
+}
